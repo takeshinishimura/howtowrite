@@ -1,0 +1,26 @@
+# Preface {-}
+
+In this book, we will introduce an interesting
+method.
+
+<!--chapter:end:index.Rmd-->
+
+# イントロダクション
+
+This chapter is an overview of the methods that
+we propose to solve an **important problem**.
+
+<!--chapter:end:01-intro.Rmd-->
+
+# 文献検索
+
+- データベース
+  + [CiNii Articles](https://ci.nii.ac.jp)
+  + [Web of Science](http://www.webofknowledge.com/wos)
+  + [Scopus](https://www.scopus.com/)
+- 論文
+  + [J-STAGE](https://www.jstage.jst.go.jp/browse/-char/ja/)
+  + [Google Scholar](http://blog.kz-me.net/)
+
+<!--chapter:end:02-search.Rmd-->
+

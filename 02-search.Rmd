@@ -1,0 +1,9 @@
+# 文献検索
+
+- データベース
+  + [CiNii Articles](https://ci.nii.ac.jp)
+  + [Web of Science](http://www.webofknowledge.com/wos)
+  + [Scopus](https://www.scopus.com/)
+- 論文
+  + [J-STAGE](https://www.jstage.jst.go.jp/browse/-char/ja/)
+  + [Google Scholar](http://blog.kz-me.net/)
