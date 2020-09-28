@@ -1,4 +1,4 @@
-# 文献検索
+# Search
 
 - データベース
   + [CiNii Articles](https://ci.nii.ac.jp)

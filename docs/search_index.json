@@ -1,4 +1,5 @@
 [
 ["index.html", "Preface", " Preface In this book, we will introduce an interesting method. "],
-["-.html", "1 イントロダクション", " 1 イントロダクション This chapter is an overview of the methods that we propose to solve an important problem. "]
+["intro.html", "1 Intro", " 1 Intro This chapter is an overview of the methods that we propose to solve an important problem. "],
+["search.html", "2 Search", " 2 Search データベース CiNii Articles Web of Science Scopus 論文 J-STAGE Google Scholar "]
 ]
