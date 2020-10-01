@@ -1,9 +1,25 @@
-# Search
+# 検索 {#search}
 
-- データベース
-  + [CiNii Articles](https://ci.nii.ac.jp)
-  + [Web of Science](http://www.webofknowledge.com/wos)
-  + [Scopus](https://www.scopus.com/)
-- 論文
-  + [J-STAGE](https://www.jstage.jst.go.jp/browse/-char/ja/)
-  + [Google Scholar](http://blog.kz-me.net/)
+論文データベース
+
+論文データベースには，以下のものがあります。
+
+- [CiNii Articles](https://ci.nii.ac.jp)
+- [Web of Science](http://www.webofknowledge.com/wos)
+- [Scopus](https://www.scopus.com/)
+
+利用可能な範囲は所属機関の契約に依存します。
+
+
+ 論文
+
+論文を直接検索したり，読むことができます。
+
+- [J-STAGE](https://www.jstage.jst.go.jp/browse/-char/ja/)
+- [Google Scholar](https://scholar.google.com)
+
+ DOI
+
+ISBN
+
+ISSN

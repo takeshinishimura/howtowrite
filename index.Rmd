@@ -1,4 +1,6 @@
-# Preface {-}
+# はじめに {-}
+
+はじめに
 
 In this book, we will introduce an interesting
 method.
