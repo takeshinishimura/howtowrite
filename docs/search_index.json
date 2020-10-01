@@ -1,5 +1,5 @@
 [
-["index.html", "Preface", " Preface In this book, we will introduce an interesting method. "],
+["index.html", "はじめに", " はじめに はじめに In this book, we will introduce an interesting method. "],
 ["1-introduction.html", "1 イントロダクション", " 1 イントロダクション This chapter is an overview of the methods that we propose to solve an important problem. "],
 ["2-search.html", "2 検索", " 2 検索 論文データベース 論文データベースには，以下のものがあります。 CiNii Articles Web of Science Scopus 利用可能な範囲は所属機関の契約に依存します。 論文 論文を直接検索したり，読むことができます。 J-STAGE Google Scholar DOI ISBN ISSN "]
 ]
