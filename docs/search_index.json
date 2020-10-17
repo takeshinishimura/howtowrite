@@ -1,5 +1,22 @@
 [
-["index.html", "はじめに", " はじめに はじめに In this book, we will introduce an interesting method. "],
+["index.html", "はじめに", " はじめに このサイトでは，卒業論文の書き方について整理します。 おそらく永遠に未完成です。 内容は，レポートの書き方にも応用できる部分が多いです。 "],
 ["1-introduction.html", "1 イントロダクション", " 1 イントロダクション This chapter is an overview of the methods that we propose to solve an important problem. "],
-["2-search.html", "2 検索", " 2 検索 論文データベース 論文データベースには，以下のものがあります。 CiNii Articles Web of Science Scopus 利用可能な範囲は所属機関の契約に依存します。 論文 論文を直接検索したり，読むことができます。 J-STAGE Google Scholar DOI ISBN ISSN "]
+["2-search.html", "2 検索\n", " 2 検索\n"],
+["2-1-.html", "2.1 論文データベース", " 2.1 論文データベース 論文データベースには，以下のものがあります。 CiNii Articles Web of Science Scopus 利用可能な範囲は所属機関の契約に依存します。 "],
+["2-2-.html", "2.2 論文", " 2.2 論文 論文を直接検索したり，読むことができます。 J-STAGE Google Scholar DOI ISBN ISSN "],
+["3-software.html", "3 ソフトウェア\n", " 3 ソフトウェア\n"],
+["3-1-microsoft-word.html", "3.1 Microsoft Word", " 3.1 Microsoft Word 多くの人が使っている。 校閲で変更履歴を残せることが唯一の利点。 "],
+["3-2-tex.html", "3.2 TeX", " 3.2 TeX TeXと呼ぶがではなく，LaTeXを使うのが一般的です。 普通のドキュメントを作成する場合，文字コードをUTF-8にしたいとき。 - upLaTex プレゼン資料を作成する場合，Beamer。 - XeLaTeX "],
+["3-3-rstudio.html", "3.3 RStudio", " 3.3 RStudio R Markdown 本のようなスタイル。 BOOKDOWN プレゼン資料を作成する場合。 xaringan install.packages(&quot;xaringan&quot;) library(rmarkdown) rmarkdown::render(&quot;index.Rmd&quot;) browseURL(&quot;index.html&quot;) Slidify require(devtools) devtools::install_github(&quot;ramnathv/slidify&quot;) devtools::install_github(&quot;ramnathv/slidifyLibraries&quot;) library(slidify) slidify::author(&quot;slidify&quot;) slidify::slidify(&quot;index.Rmd&quot;) browseURL(&quot;index.html&quot;) "],
+["3-4-adobe-indesign.html", "3.4 Adobe InDesign", " 3.4 Adobe InDesign ちゃんと組版するときに使える。 "],
+["4-design.html", "4 デザイン\n", " 4 デザイン\n"],
+["4-1-.html", "4.1 デザイン", " 4.1 デザイン デザインについては，以下のサイトが参考になります。 伝わるデザイン 色彩センスのいらない配色講座 "],
+["4-2-.html", "4.2 プレゼンテーション資料", " 4.2 プレゼンテーション資料 プレゼン資料の作成方法については，以下のサイトが参考になります。 【プレゼン】見やすいプレゼン資料の作り方【初心者用】 "],
+["4-3-.html", "4.3 データの可視化", " 4.3 データの可視化 データの可視化については，以下のサイトが参考になります。 Data visualization - Material Design Data-Driven Documents "],
+["4-4-adobe-illustrator.html", "4.4 Adobe Illustrator", " 4.4 Adobe Illustrator 目を引く文字デザインの作成方法：初級編 目を引く文字デザインの作成方法：中級編 "],
+["5-statistics.html", "5 統計学\n", " 5 統計学\n"],
+["5-1-r.html", "5.1 R", " 5.1 R "],
+["5-2-web-.html", "5.2 非常に参考になるWebサイト", " 5.2 非常に参考になるWebサイト 統計・データ解析 - 奥村 晴彦 "],
+["6-reference.html", "6 参考文献", " 6 参考文献 Xie, Yihui (2020), bookdown: Authoring Books and Technical Documents with R Markdown "],
+["7-about.html", "7 奥付", " 7 奥付 著者 西村武司 E-mail: "]
 ]
