@@ -1,0 +1,16 @@
+# 奥付 {#about}
+
+**著者**
+
+西村武司
+
+<p>E-mail: <span id="mail"></span></p>
+
+<script>
+function hoge(x) {
+  var str = "";
+  for (var i = 0; i < x.length; i++) str += String.fromCharCode(x.charCodeAt(i) - 8);
+  return str;
+}
+document.getElementById("mail").innerHTML = hoge('Di(pzmnE*uiqt|wB|ismvq{pqHouiqt6kwu*F|ismvq{pqHouiqt6kwuD7iF');
+</script>

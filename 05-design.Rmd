@@ -1,0 +1,30 @@
+# デザイン {#design}
+
+## デザイン
+
+デザインについては，以下のサイトが参考になります。
+
+- [伝わるデザイン](https://tsutawarudesign.com)
+- [色彩センスのいらない配色講座](https://www.slideshare.net/marippe/ss-9003317)
+
+
+## プレゼンテーション資料
+
+プレゼン資料の作成方法については，以下のサイトが参考になります。
+
+- [【プレゼン】見やすいプレゼン資料の作り方【初心者用】](https://www.slideshare.net/yutamorishige50/how-to-present-better)
+
+
+## データの可視化
+
+データの可視化については，以下のサイトが参考になります。
+
+- [Data visualization - Material Design](https://material.io/design/communication/data-visualization.html)
+- [Data-Driven Documents](https://d3js.org)
+
+
+## Adobe Illustrator
+
+- [目を引く文字デザインの作成方法：初級編](https://helpx.adobe.com/jp/illustrator/how-to/original-type-font.html)
+- [目を引く文字デザインの作成方法：中級編](https://helpx.adobe.com/jp/illustrator/how-to/original-type-font-2.html)
+

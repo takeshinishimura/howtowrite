@@ -1,0 +1,56 @@
+# ソフトウェア {#software}
+
+## Microsoft Word
+
+多くの人が使っている。
+
+- 校閲で変更履歴を残せることが唯一の利点。
+
+
+## TeX
+
+TeXと呼ぶがではなく，LaTeXを使うのが一般的です。
+
+普通のドキュメントを作成する場合，文字コードをUTF-8にしたいとき。
+- upLaTex
+
+プレゼン資料を作成する場合，Beamer。
+- XeLaTeX
+
+
+## RStudio
+
+R Markdown
+本のようなスタイル。
+
+- [BOOKDOWN](https://bookdown.org)
+
+プレゼン資料を作成する場合。
+
+- [xaringan](https://github.com/yihui/xaringan)
+
+```r
+install.packages("xaringan")
+
+library(rmarkdown)
+rmarkdown::render("index.Rmd")
+browseURL("index.html")
+```
+
+- [Slidify](http://slidify.org)
+
+```r
+require(devtools)
+devtools::install_github("ramnathv/slidify")
+devtools::install_github("ramnathv/slidifyLibraries")
+
+library(slidify)
+slidify::author("slidify")
+slidify::slidify("index.Rmd")
+browseURL("index.html")
+```
+
+
+## Adobe InDesign
+
+ちゃんと組版するときに使える。

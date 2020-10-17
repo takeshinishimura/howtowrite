@@ -1,12 +1,11 @@
 bookdown::gitbook:
-  lib_dir: assets
   split_by: section+number
   config:
     toolbar:
       position: static
     toc:
       before: |
-        <li><a href="./">卒業研究基礎</a></li>
+        <li><a href="./">卒業論文の書き方</a></li>
 bookdown::pdf_book:
   keep_tex: yes
 bookdown::html_book:

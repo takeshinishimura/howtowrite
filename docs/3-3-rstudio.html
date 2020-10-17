@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>1 イントロダクション | index.split</title>
+  <title>3.3 RStudio | index.split</title>
   <meta name="description" content="" />
   <meta name="generator" content="bookdown 0.20 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="1 イントロダクション | index.split" />
+  <meta property="og:title" content="3.3 RStudio | index.split" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="1 イントロダクション | index.split" />
+  <meta name="twitter:title" content="3.3 RStudio | index.split" />
   
   
   
@@ -29,8 +29,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="index.html"/>
-<link rel="next" href="2-search.html"/>
+<link rel="prev" href="3-2-tex.html"/>
+<link rel="next" href="3-4-adobe-indesign.html"/>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
@@ -172,19 +172,41 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="introduction" class="section level1">
-<h1><span class="header-section-number">1</span> イントロダクション</h1>
-<p>This chapter is an overview of the methods that
-we propose to solve an <strong>important problem</strong>.</p>
-
+<div id="rstudio" class="section level2">
+<h2><span class="header-section-number">3.3</span> RStudio</h2>
+<p>R Markdown
+本のようなスタイル。</p>
+<ul>
+<li><a href="https://bookdown.org">BOOKDOWN</a></li>
+</ul>
+<p>プレゼン資料を作成する場合。</p>
+<ul>
+<li><a href="https://github.com/yihui/xaringan">xaringan</a></li>
+</ul>
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="3-3-rstudio.html#cb1-1"></a><span class="kw">install.packages</span>(<span class="st">&quot;xaringan&quot;</span>)</span>
+<span id="cb1-2"><a href="3-3-rstudio.html#cb1-2"></a></span>
+<span id="cb1-3"><a href="3-3-rstudio.html#cb1-3"></a><span class="kw">library</span>(rmarkdown)</span>
+<span id="cb1-4"><a href="3-3-rstudio.html#cb1-4"></a>rmarkdown<span class="op">::</span><span class="kw">render</span>(<span class="st">&quot;index.Rmd&quot;</span>)</span>
+<span id="cb1-5"><a href="3-3-rstudio.html#cb1-5"></a><span class="kw">browseURL</span>(<span class="st">&quot;index.html&quot;</span>)</span></code></pre></div>
+<ul>
+<li><a href="http://slidify.org">Slidify</a></li>
+</ul>
+<div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb2-1"><a href="3-3-rstudio.html#cb2-1"></a><span class="kw">require</span>(devtools)</span>
+<span id="cb2-2"><a href="3-3-rstudio.html#cb2-2"></a>devtools<span class="op">::</span><span class="kw">install_github</span>(<span class="st">&quot;ramnathv/slidify&quot;</span>)</span>
+<span id="cb2-3"><a href="3-3-rstudio.html#cb2-3"></a>devtools<span class="op">::</span><span class="kw">install_github</span>(<span class="st">&quot;ramnathv/slidifyLibraries&quot;</span>)</span>
+<span id="cb2-4"><a href="3-3-rstudio.html#cb2-4"></a></span>
+<span id="cb2-5"><a href="3-3-rstudio.html#cb2-5"></a><span class="kw">library</span>(slidify)</span>
+<span id="cb2-6"><a href="3-3-rstudio.html#cb2-6"></a>slidify<span class="op">::</span><span class="kw">author</span>(<span class="st">&quot;slidify&quot;</span>)</span>
+<span id="cb2-7"><a href="3-3-rstudio.html#cb2-7"></a>slidify<span class="op">::</span><span class="kw">slidify</span>(<span class="st">&quot;index.Rmd&quot;</span>)</span>
+<span id="cb2-8"><a href="3-3-rstudio.html#cb2-8"></a><span class="kw">browseURL</span>(<span class="st">&quot;index.html&quot;</span>)</span></code></pre></div>
 </div>
             </section>
 
           </div>
         </div>
       </div>
-<a href="index.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="2-search.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="3-2-tex.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="3-4-adobe-indesign.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>

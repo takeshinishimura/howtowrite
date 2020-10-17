@@ -1,0 +1,3 @@
+# 参考文献 {#reference}
+
+1. Xie, Yihui (2020), [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
