@@ -6,7 +6,7 @@
 ["2-2-.html", "2.2 論文", " 2.2 論文 論文を直接検索したり，読むことができます。 J-STAGE Google Scholar DOI ISBN ISSN "],
 ["3-software.html", "3 ソフトウェア\n", " 3 ソフトウェア\n"],
 ["3-1-microsoft-word.html", "3.1 Microsoft Word", " 3.1 Microsoft Word 多くの人が使っている。 校閲で変更履歴を残せることが唯一の利点。 "],
-["3-2-tex.html", "3.2 TeX", " 3.2 TeX TeXと呼ぶがではなく，LaTeXを使うのが一般的です。 普通のドキュメントを作成する場合，文字コードをUTF-8にしたいとき。 - upLaTex プレゼン資料を作成する場合，Beamer。 - XeLaTeX "],
+["3-2-tex.html", "3.2 TeX", " 3.2 TeX TeXと呼ぶがではなく，LaTeXを使うのが一般的です。 普通のドキュメントを作成する場合，文字コードをUTF-8にしたいとき。 upLaTex プレゼン資料を作成する場合，Beamer。 XeLaTeX "],
 ["3-3-rstudio.html", "3.3 RStudio", " 3.3 RStudio R Markdown 本のようなスタイル。 BOOKDOWN プレゼン資料を作成する場合。 xaringan install.packages(&quot;xaringan&quot;) library(rmarkdown) rmarkdown::render(&quot;index.Rmd&quot;) browseURL(&quot;index.html&quot;) Slidify require(devtools) devtools::install_github(&quot;ramnathv/slidify&quot;) devtools::install_github(&quot;ramnathv/slidifyLibraries&quot;) library(slidify) slidify::author(&quot;slidify&quot;) slidify::slidify(&quot;index.Rmd&quot;) browseURL(&quot;index.html&quot;) "],
 ["3-4-adobe-indesign.html", "3.4 Adobe InDesign", " 3.4 Adobe InDesign ちゃんと組版するときに使える。 "],
 ["4-design.html", "4 デザイン\n", " 4 デザイン\n"],
