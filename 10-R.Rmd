@@ -1,8 +1,0 @@
-# 統計学 {#statistics}
-
-## R
-
-## 非常に参考になるWebサイト
-
-- [統計・データ解析 - 奥村 晴彦](https://oku.edu.mie-u.ac.jp/~okumura/stat/)
-
