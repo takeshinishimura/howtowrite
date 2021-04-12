@@ -1,6 +1,6 @@
 introduction
 search
-論文データベース
+文献データベース
 論文
 software
 microsoft-word
