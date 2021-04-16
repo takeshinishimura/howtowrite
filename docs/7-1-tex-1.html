@@ -193,7 +193,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="6.3" data-path="6-3-.html"><a href="6-3-.html"><i class="fa fa-check"></i><b>6.3</b> データの可視化</a></li>
 <li class="chapter" data-level="6.4" data-path="6-4-adobe-illustrator.html"><a href="6-4-adobe-illustrator.html"><i class="fa fa-check"></i><b>6.4</b> Adobe Illustrator</a></li>
 </ul></li>
-<li class="chapter" data-level="7" data-path="7-statistics.html"><a href="7-statistics.html"><i class="fa fa-check"></i><b>7</b> 統計学</a>
+<li class="chapter" data-level="7" data-path="7-statistics.html"><a href="7-statistics.html"><i class="fa fa-check"></i><b>7</b> 組版</a>
 <ul>
 <li class="chapter" data-level="7.1" data-path="7-1-tex-1.html"><a href="7-1-tex-1.html"><i class="fa fa-check"></i><b>7.1</b> TeX</a></li>
 <li class="chapter" data-level="7.2" data-path="7-2-.html"><a href="7-2-.html"><i class="fa fa-check"></i><b>7.2</b> 参考になる文献</a>
@@ -228,21 +228,77 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
             <section class="normal" id="section-">
 <div id="tex-1" class="section level2" number="7.1">
 <h2><span class="header-section-number">7.1</span> TeX</h2>
-<p>— ファミリー
-+ ローマン体：, {}, <del>{}</del>
-+ サンセリフ体：, {}, <del>{}</del>
-+ タイプライタ体：, {}, <del>{}</del>
-+ 明朝体：, {}, <del>{}</del>
-+ ゴシック体：, {}, <del>{}</del>
-— シリーズ
-+ ボールド：, {}, <del>{}</del>
-+ ミディアム：, {}
-— シェイプ
-+ 立体：, {}, <del>{}</del>
-+ イタリック体：, {}, <del>{}</del>
-+ 斜体：, {}
-+ スモールキャピタル：, {}
-- 強調：, {}</p>
+<p>— ファミリー</p>
+<ul>
+<li>ローマン体</li>
+</ul>
+<pre><code>\textrm{}
+{\rmfamily }
+非推奨：{\rm }</code></pre>
+<ul>
+<li>サンセリフ体</li>
+</ul>
+<pre><code>\textsf{}
+{\sffamily }
+非推奨：{\sf }</code></pre>
+<ul>
+<li>タイプライタ体</li>
+</ul>
+<pre><code>\texttt{}
+{\ttfamily }
+非推奨：{\tt }</code></pre>
+<ul>
+<li>明朝体</li>
+</ul>
+<pre><code>\textmc{}
+{\mcfamily }
+非推奨：{\mc }</code></pre>
+<ul>
+<li>ゴシック体</li>
+</ul>
+<pre><code>\textgt{}
+{\gtfamily }
+非推奨：{\gt }</code></pre>
+<p>— シリーズ</p>
+<ul>
+<li>ボールド</li>
+</ul>
+<pre><code>\textbf{}
+{\bfseries }
+非推奨：{\bf }</code></pre>
+<ul>
+<li>ミディアム</li>
+</ul>
+<pre><code>\textmd{}
+{\mdseries }</code></pre>
+<p>— シェイプ
++ 立体</p>
+<pre><code>\textup{}
+{\upshape }
+非推奨：{\up }</code></pre>
+<ul>
+<li>イタリック体</li>
+</ul>
+<pre><code>\textit{}
+{\itshape }
+非推奨：{\it }</code></pre>
+<ul>
+<li>斜体</li>
+</ul>
+<pre><code>\textsl{}
+{\slshape }
+非推奨：{\sl }</code></pre>
+<ul>
+<li>スモールキャピタル</li>
+</ul>
+<pre><code>\textsc{}
+{\scshape }
+非推奨：{\sc }</code></pre>
+<ul>
+<li>強調</li>
+</ul>
+<pre><code>\emph{}
+{\em }</code></pre>
 </div>
             </section>
 
