@@ -1,0 +1,32 @@
+# 統計学 {#statistics}
+
+## TeX
+
+— ファミリー
+  + ローマン体：\textrm{}, {\rmfamily }, ~~{\rm }~~
+  + サンセリフ体：\textsf{}, {\sffamily }, ~~{\sf }~~
+  + タイプライタ体：\texttt{}, {\ttfamily }, ~~{\tt }~~
+  + 明朝体：\textmc{}, {\mcfamily }, ~~{\rm }~~
+  + ゴシック体：\textgt{}, {\gtfamily }, ~~{\rm }~~
+— シリーズ
+  + ボールド：\textbf{}, {\bfseries }, ~~{\bf }~~
+  + ミディアム：\textmd{}, {\mdseries }
+— シェイプ
+  + 立体：\textup{}, {\upshape }, ~~{\it }~~
+  + イタリック体：\textit{}, {\itshape }, ~~{\it }~~
+  + 斜体：\textsl{}, {\slshape }
+  + スモールキャピタル：\textsc{}, {\scshape }
+- 強調：\emph{}, {\em }
+
+
+## 参考になる文献
+
+### 今買うならこの一冊
+
+- [奥村晴彦・黒木裕介『［改訂第8版］LaTeX2ε美文書作成入門』技術評論社，2020（ISBN: 978-4-297-11712-2）。](https://gihyo.jp/book/2020/978-4-297-11712-2)
+
+### 自分が参考にした書籍
+
+- [乙部厳己・江口庄英『pLaTeX2ε for Windows Another Manual〈Vol.1〉改訂版』ソフトバンククリエイティブ，1998（ISBN: 9784797307184）。](https://www.amazon.co.jp/dp/4797307188)
+- [乙部厳己・江口庄英『pLaTeX2ε for Windows Another Manual〈Vol.2〉Extended Kit』ソフトバンククリエイティブ，1997（ISBN: 9784797302677）。](https://www.amazon.co.jp/dp/4797302674)
+
