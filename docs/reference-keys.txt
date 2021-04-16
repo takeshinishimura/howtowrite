@@ -38,11 +38,11 @@ design
 プレゼンテーション資料
 データの可視化
 adobe-illustrator
-statistics
 tex-1
 参考になる文献
 今買うならこの一冊
 自分が参考にした書籍
+statistics
 r
 非常に参考になるwebサイト
 reference
