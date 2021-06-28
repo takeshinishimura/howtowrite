@@ -1,0 +1,14 @@
+# テーマ {#theme}
+
+## テーマを決める。
+
+自分は何について論文を書くのか？
+
+この問いに対して，自分で答えなければならない。
+
+Hal R. Varianの論文，How to Build an Economic Model in Your Spare Timeがヒントになるかもしれない。
+著者のサイトで無料で公開されている。
+- [Hal R. Varian](https://people.ischool.berkeley.edu/~hal/)
+
+自分はこの本の第22章で，この論文の存在を知った。
+- [Variants in Economic Theory: Selected Works of Hal R. Varian](https://www.google.co.jp/books/edition/Variants_in_Economic_Theory/D1iYm5HFmQsC)

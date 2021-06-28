@@ -1,3 +1,5 @@
 # 参考文献 {#reference}
 
+1. KRSK (2021) [「簡潔で分かりやすい英語論文の書き方」について整理した](https://www.krsk-phs.com/entry/academicwriting)
+
 1. Xie, Yihui (2020), [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
